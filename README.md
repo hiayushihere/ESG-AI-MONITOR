@@ -209,7 +209,9 @@ Endpoint	Description
 `/fetch/<company>`	Fetch fresh ESG news
 
 `/articles/<company>`	Get AI-analyzed articles
+
 `/metrics/<company>`	Sentiment & risk metrics
+
 `/trending/<company>`	Trending ESG topics
 
 ### Tech Stack
@@ -223,3 +225,4 @@ Frontend → React, Axios, Recharts
 Database → SQLite
 
 LLM Runtime → Ollama
+
