@@ -105,6 +105,7 @@ ___
 `git clone https://github.com/hiayushihere/ESG-AI-MONITOR.git`
 
 `cd esg-ai-monitor`
+
 2. Backend Setup
 
 Create Virtual Environment
@@ -227,6 +228,7 @@ Frontend → React, Axios, Recharts
 Database → SQLite
 
 LLM Runtime → Ollama
+
 
 
 
