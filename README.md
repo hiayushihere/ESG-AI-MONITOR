@@ -57,6 +57,7 @@ Filters only ESG-relevant content
 Removes marketing, deals, and noise articles
 
 2. AI ESG Analysis
+
 Sentiment analysis (FinBERT)
 
 ESG category detection (E / S / G)
@@ -140,7 +141,7 @@ Start Ollama server:
 
 6. Add API Keys
 
-Update config:
+Update config in .env:
 
 `NEWS_API_KEY=news_api_key`
 
@@ -226,6 +227,7 @@ Frontend → React, Axios, Recharts
 Database → SQLite
 
 LLM Runtime → Ollama
+
 
 
 
