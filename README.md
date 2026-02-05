@@ -45,7 +45,7 @@ Risk scoring engine
 Trend analytics
 
 Interactive React dashboard
-
+___
 ### Features
 
 1. News Ingestion Pipeline
@@ -96,7 +96,7 @@ Trending ESG topics
 Article list with AI summaries
 
 Risk score monitoring
-
+___
 ### Installation & Setup
 
 1.Clone the Repository
@@ -169,7 +169,7 @@ Database will be created in:
 Backend runs at:
 
 `http://127.0.0.1:5000`
-
+___
 #### Frontend Setup
 1. Navigate to Frontend
 
@@ -188,7 +188,7 @@ Backend runs at:
 Frontend runs at:
 
 `http://localhost:3000`
-
+___
 ### How the System Works
 
 -User enters company name
@@ -202,10 +202,11 @@ Frontend runs at:
 -Metrics & risk scores are calculated
 
 -Dashboard visualizes trends and risk
-
+___
 ### API Endpoints
 
-Endpoint	Description
+#### Endpoint	Description
+
 `/fetch/<company>`	Fetch fresh ESG news
 
 `/articles/<company>`	Get AI-analyzed articles
@@ -225,4 +226,5 @@ Frontend → React, Axios, Recharts
 Database → SQLite
 
 LLM Runtime → Ollama
+
 
