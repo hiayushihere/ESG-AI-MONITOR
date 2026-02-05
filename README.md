@@ -13,7 +13,7 @@ Sentiment trends
 
 Environmental, Social, and Governance risk categories
 
-###Key topics
+### Key topics
 
 ESG risk scores
 
@@ -226,6 +226,7 @@ Frontend → React, Axios, Recharts
 Database → SQLite
 
 LLM Runtime → Ollama
+
 
 
 
