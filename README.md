@@ -20,7 +20,7 @@ ESG risk scores
 Analytical summaries (not generic news summaries
 
 The system mimics how investment firms and ESG analysts track corporate risk in real time.
-
+___
 ### Data Source
 
 News data is collected using NewsAPI:
@@ -214,7 +214,7 @@ ___
 `/metrics/<company>`	Sentiment & risk metrics
 
 `/trending/<company>`	Trending ESG topics
-
+___
 ### Tech Stack
 
 Backend → Flask, SQLAlchemy
@@ -226,5 +226,6 @@ Frontend → React, Axios, Recharts
 Database → SQLite
 
 LLM Runtime → Ollama
+
 
 
