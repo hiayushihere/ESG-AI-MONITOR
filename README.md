@@ -46,6 +46,29 @@ Trend analytics
 
 Interactive React dashboard
 ___
+---
+### DELIVERABLE LINKS (also attached in submission.txt)
+---
+1.  Video Demo
+
+PFA attached video link:  
+
+https://drive.google.com/file/d/17Of42XYe4uYDKHdEtWzcaHpIh-OcNLxO/view?usp=sharing
+
+
+2. Problem Statement Document (PDF)
+
+PFA attached document link:  
+
+https://drive.google.com/file/d/12i1sVDavlCvTFaGYzSPvNiwL82Blg52R/view?usp=sharing
+
+3. AI Usage Report (PDF)
+
+PFA attached document link:  
+
+https://drive.google.com/file/d/1b6YdyJkuH2HGcfhM67AnX9gSZr12YIhQ/view?usp=sharing
+
+--------------------------------------------------
 ### Features
 
 1. News Ingestion Pipeline
@@ -228,6 +251,7 @@ Frontend → React, Axios, Recharts
 Database → SQLite
 
 LLM Runtime → Ollama
+
 
 
 
