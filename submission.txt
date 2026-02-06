@@ -4,7 +4,7 @@ ESG AI MONITOR — SUBMISSION
 
 Name: Ayushi Singh  
 Project Title: AI-Powered ESG Intelligence Monitoring System  
-GitHub Repository: [PASTE YOUR GITHUB REPO LINK HERE]
+GitHub Repository: https://github.com/hiayushihere/ESG-AI-MONITOR
 
 --------------------------------------------------
 DELIVERABLE LINKS
