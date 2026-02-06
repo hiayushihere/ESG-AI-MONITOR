@@ -1,1 +1,65 @@
+===============================
+ESG AI MONITOR — SUBMISSION
+===============================
+
+Name: Ayushi Singh  
+Project Title: AI-Powered ESG Intelligence Monitoring System  
+GitHub Repository: [PASTE YOUR GITHUB REPO LINK HERE]
+
+--------------------------------------------------
+DELIVERABLE LINKS
+--------------------------------------------------
+
+1.  Video Demo
+PFA attached video link:  
+https://drive.google.com/file/d/17Of42XYe4uYDKHdEtWzcaHpIh-OcNLxO/view?usp=sharing
+
+
+2. Problem Statement Document (PDF)
+PFA attached document link:  
+https://drive.google.com/file/d/12i1sVDavlCvTFaGYzSPvNiwL82Blg52R/view?usp=sharing
+
+3. AI Usage Report (PDF)
+PFA attached document link:  
+https://drive.google.com/file/d/1b6YdyJkuH2HGcfhM67AnX9gSZr12YIhQ/view?usp=sharing
+
+--------------------------------------------------
+SYSTEM OVERVIEW
+--------------------------------------------------
+
+This project builds an AI-driven ESG Intelligence Dashboard that:
+
+• Collects real-time news using NewsAPI  
+• Filters ESG-related articles  
+• Performs financial sentiment analysis (FinBERT)  
+• Classifies ESG categories (BART MNLI Zero-Shot)  
+• Extracts key topics (KeyBERT)  
+• Generates ESG impact summaries using Mistral 7B (via Ollama)  
+• Calculates ESG risk metrics  
+• Displays insights via a React dashboard  
+
+--------------------------------------------------
+MODELS USED
+--------------------------------------------------
+
+Sentiment Analysis → ProsusAI/finbert  
+Category Classification → facebook/bart-large-mnli  
+Topic Extraction → KeyBERT  
+Summarization & ESG Reasoning → Mistral 7B (local Ollama)
+
+--------------------------------------------------
+NOTES
+--------------------------------------------------
+
+Due to the heavy computation required for the Mistral 7B model,
+summarization and analysis for each company can take:
+
+• ~7–10 minutes on MacBook  
+• ~30 minutes on Windows  
+
+Therefore, the data used in the demo has been pre-processed.
+
+--------------------------------------------------
+
+Thank you .
 
